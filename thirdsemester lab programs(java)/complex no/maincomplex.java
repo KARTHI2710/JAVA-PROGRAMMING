@@ -1,4 +1,5 @@
 //complex number
+//sample program
 import java.io.*;
 class complex{
 int a1,a2,b1,b2,x,y;
